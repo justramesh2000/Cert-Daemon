@@ -1,0 +1,16 @@
+{
+    "exclude": [
+        "**/bin",
+        "**/bower_components",
+        "**/jspm_packages",
+        "**/node_modules",
+        "**/obj",
+        "**/platforms"
+    ],
+    "inputfilepath": "E:\\Ramesh\\SSL-Termination\\Cert-Daemon\\CertDaemon\\Data\\input.txt",
+    "logfilepath": "E:\\Ramesh\\SSL-Termination\\Cert-Daemon\\CertDaemon\\Log\\Log.txt",
+    "haproxyfolderpath": "E:\\Ramesh\\SSL-Termination\\Cert-Daemon\\CertDaemon\\haproxyfolder\\",
+    "basevaulturl": "http://localhost:8200/v1/secret/",
+    "vaulttoken": "s.ebMMFfd2jpwxIpcwYcCI0irW",
+	"haproxyCommandPath":""
+}
